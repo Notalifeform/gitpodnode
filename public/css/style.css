@@ -56,3 +56,8 @@
 .article-container {
   margin: auto;
 }
+
+footer {
+  margin: 20;
+  font-size: 10;
+} 
