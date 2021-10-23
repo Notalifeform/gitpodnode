@@ -40,7 +40,7 @@ app.post('/api/checkout', checkoutOrder)
 app.listen(port, serverIsGestart)
 
 function serverIsGestart() {
-  console.log(`De server is opgestart en is bereikbaar op poort ${port}`)
+  console.log('De server is opgestart en is bereikbaar op poort ' + port)
 }
 
 // -----------------------
